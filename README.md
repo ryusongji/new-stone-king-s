@@ -8,6 +8,8 @@
 2. 회의 주제
 3. 회의 일정 및 시간
 4. 회의 진행 사항 정리
+
+
 </table>
  <tr>
 <td align="center"><a href="https://github.com/ryusongji/WDA_Project2_AI/blob/d95d1c12f3cb9ab768e5226e746d560519ca8b08/AI/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D.pdf">
