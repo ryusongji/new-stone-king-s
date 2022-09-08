@@ -1,5 +1,3 @@
-# new-stone-king-s
-
 # 제출 보고서
 
 목차
