@@ -2,14 +2,12 @@
 
 # 제출 보고서
 
-인공지능(Artificial Intelligence)
-사고나 학습 등 인간이 가진 지적 능력을 컴퓨터를 통해 구현하는 기술 입니다.
+목차
 
-기계학습(Machine Learning)
-기계 학습이란 스스로 성능을 향상 시키는 컴퓨터 알고리즘을 만드는 연구 입니다.
-
-딥러닝(Deep Learning)
-인간의 뉴런과 비슷한 인공신경망 방식으로 정보를 처리합니다.
+1. 회의 참여자 정보
+2. 회의 주제
+3. 회의 일정 및 시간
+4. 회의 진행 사항 정리
 </table>
  <tr>
 <td align="center"><a href="https://github.com/ryusongji/WDA_Project2_AI/blob/d95d1c12f3cb9ab768e5226e746d560519ca8b08/AI/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B3%BC%20%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D.pdf">
