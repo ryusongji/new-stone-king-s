@@ -29,6 +29,6 @@
  
 </table>
 <tr>
-<td align="center"><a href="https://github.com/ryusongji/WDA_Project2_AI/blob/d95d1c12f3cb9ab768e5226e746d560519ca8b08/AI/%EB%B9%84%EC%A7%80%EB%8F%84%20%ED%95%99%EC%8A%B5.pdf">
-<br /><sub><b>비지도학습pdf</b></sub></a><br /><a href="https://github.com/ryusongji/WDA_Project2_AI/blob/d95d1c12f3cb9ab768e5226e746d560519ca8b08/AI/%EB%B9%84%EC%A7%80%EB%8F%84%20%ED%95%99%EC%8A%B5.pdf" title="Code">
+<td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/%ED%9A%8C%EC%9D%98%EB%A1%9D.pdf">
+<br /><sub><b>회의록pdf</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/%ED%9A%8C%EC%9D%98%EB%A1%9D.pdf" title="Code">
 </tr>
