@@ -16,7 +16,7 @@
 
 # 회의 주제
 
-일상
+일상에서 불편했던 것들
 
 # 회의 일정 및 시간
 
@@ -27,8 +27,15 @@
  
 # 회의 진행 사항 정리
  
+
 </table>
 <tr>
 <td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/%ED%9A%8C%EC%9D%98%EB%A1%9D">
 <br /><sub><b>회의록pdf</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/%ED%9A%8C%EC%9D%98%EB%A1%9D" title="Code">
+</tr>
+
+</table>
+<tr>
+<td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/%EA%B0%9C%EC%9D%B8%20%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A7%B5">
+<br /><sub><b>개인마인드맵pdf</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/%EA%B0%9C%EC%9D%B8%20%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A7%B5" title="Code">
 </tr>
