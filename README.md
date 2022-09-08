@@ -29,6 +29,6 @@
  
 </table>
 <tr>
-<td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D/2022.09.08_%EC%9D%B8%EC%84%B1.pdf">
-<br /><sub><b>회의록pdf</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/%ED%9A%8C%EC%9D%98%EB%A1%9D/2022.09.08_%EC%9D%B8%EC%84%B1.pdf" title="Code">
+<td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/%ED%9A%8C%EC%9D%98%EB%A1%9D">
+<br /><sub><b>회의록pdf</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/%ED%9A%8C%EC%9D%98%EB%A1%9D" title="Code">
 </tr>
