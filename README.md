@@ -1,6 +1,6 @@
 # new-stone-king-s
 
-# 인공지능과 머신러닝 딥러닝
+# 제출 보고서
 
 인공지능(Artificial Intelligence)
 사고나 학습 등 인간이 가진 지적 능력을 컴퓨터를 통해 구현하는 기술 입니다.
