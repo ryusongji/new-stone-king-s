@@ -9,7 +9,8 @@
 
 # 회의 참여자 정보
 
-류송지
+팀장 : 류송지
+팀원
 김다현
 왕인성
 박진석
@@ -47,4 +48,11 @@
 ">
 <br /><sub><b>브레인스토밍_메모file</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/%EB%B8%8C%EB%A0%88%EC%9D%B8%EC%8A%A4%ED%86%A0%EB%B0%8D_%EB%A9%94%EB%AA%A8
 " title="Code">
+</tr>
+
+
+</table>
+<tr>
+<td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/KJ%EA%B8%B0%EB%B2%95_%EB%A9%94%EB%AA%A8">
+<br /><sub><b>KJ기법_메모file</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/KJ%EA%B8%B0%EB%B2%95_%EB%A9%94%EB%AA%A8" title="Code">
 </tr>
