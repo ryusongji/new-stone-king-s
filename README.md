@@ -55,7 +55,11 @@
 " title="Code">
 </tr>
 
-![image](https://user-images.githubusercontent.com/53076307/189537207-22da66b9-b615-45e0-989a-26ad13c0b6f1.png)
+</table>
+<tr>
+<td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8C%8C%EC%9D%BC/KJ%EA%B8%B0%EB%B2%95.png">
+<br /><sub><b>![image](https://user-images.githubusercontent.com/53076307/189537207-22da66b9-b615-45e0-989a-26ad13c0b6f1.png)</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/KJ%EA%B8%B0%EB%B2%95_%EB%A9%94%EB%AA%A8" title="Code">
+</tr>
 
 </table>
 <tr>
