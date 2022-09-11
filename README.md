@@ -9,9 +9,14 @@
 
 # 회의 참여자 정보
 
-류송지
+팀장 : 류송지
+
+팀원
+
 김다현
+
 왕인성
+
 박진석
 
 # 회의 주제
@@ -22,8 +27,9 @@
 
  첫 번째 회의 : 2022/9/8 10 : 00 - 12 : 00 < 회의 주제 및 진행사항 정하기 >
  
- 두 번째 회의 : 2022/9/9 9 : 00 - 10 : 00 < KJ MAPPING 완성>
- (브레인스토밍 완료)
+ 두 번째 회의 : 2022/9/9 9 : 00 - 10 : 00 < KJ MAPPING 완성을 목표로>
+ 
+ (처음에 KJ기법을 먼저 하려고 했으나 KJ기법이 생각했던 것과 달라서 순서를 바꿔 브레인 스토밍을 먼저 하려고해서 브레인스토밍 완료)
  
  세 번째 회의 : 2022/9/11 11 : 00 - 2 : 00 < 최종 완성>
 # 회의 진행 사항 정리
@@ -47,4 +53,11 @@
 ">
 <br /><sub><b>브레인스토밍_메모file</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/%EB%B8%8C%EB%A0%88%EC%9D%B8%EC%8A%A4%ED%86%A0%EB%B0%8D_%EB%A9%94%EB%AA%A8
 " title="Code">
+</tr>
+
+
+</table>
+<tr>
+<td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/KJ%EA%B8%B0%EB%B2%95_%EB%A9%94%EB%AA%A8">
+<br /><sub><b>KJ기법_메모file</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/KJ%EA%B8%B0%EB%B2%95_%EB%A9%94%EB%AA%A8" title="Code">
 </tr>
