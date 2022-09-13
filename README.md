@@ -81,8 +81,12 @@
 </tr>
  
  ![image](https://user-images.githubusercontent.com/53076307/189956660-53b8400f-b679-43c4-91b6-c009600d0f3d.png)
+ </table>
+<tr>
+<td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8C%8C%EC%9D%BC/%EC%97%AC%EC%84%AF%EB%AA%A8%EC%9E%90%EC%83%89%EA%B9%94%EA%B8%B0%EB%B2%95.PNG">
+<br /><sub><b>확대하기</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8C%8C%EC%9D%BC/%EC%97%AC%EC%84%AF%EB%AA%A8%EC%9E%90%EC%83%89%EA%B9%94%EA%B8%B0%EB%B2%95.PNG" title="Code">
+</tr>
 
- 
  ![여섯모자색깔기법_주제1](https://user-images.githubusercontent.com/53076307/189953528-a669aff4-af08-4e4a-9b1d-89b346064fb0.PNG)
 </table>
 <tr>
