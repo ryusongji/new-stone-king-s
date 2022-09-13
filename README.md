@@ -60,15 +60,14 @@
 </tr>
 
  ![image](https://user-images.githubusercontent.com/53076307/189537207-22da66b9-b615-45e0-989a-26ad13c0b6f1.png)
- 
 </table>
 <tr>
 <td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8C%8C%EC%9D%BC/KJ%EA%B8%B0%EB%B2%95.png">
 <br /><sub><b>확대하기</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/KJ%EA%B8%B0%EB%B2%95_%EB%A9%94%EB%AA%A8" title="Code">
 </tr>
 
-![KJMAPPING](https://user-images.githubusercontent.com/53076307/189951930-ca53a64c-1496-44d9-9fc4-b408c857a6b3.jpg)
 
+ ![KJMAPPING](https://user-images.githubusercontent.com/53076307/189951930-ca53a64c-1496-44d9-9fc4-b408c857a6b3.jpg)
 </table>
 <tr>
 <td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/05_%EA%B2%B0%EA%B3%BC%EB%AC%BC/KJMAPPING.jpg">
@@ -83,15 +82,14 @@
  
  
  ![여섯모자색깔기법_주제1](https://user-images.githubusercontent.com/53076307/189953528-a669aff4-af08-4e4a-9b1d-89b346064fb0.PNG)
-
 </table>
 <tr>
 <td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/05_%EA%B2%B0%EA%B3%BC%EB%AC%BC/%EC%97%AC%EC%84%AF%EB%AA%A8%EC%9E%90%EC%83%89%EA%B9%94%EA%B8%B0%EB%B2%95_%EC%A3%BC%EC%A0%9C1.PNG">
 <br /><sub><b>확대하기</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/05_%EA%B2%B0%EA%B3%BC%EB%AC%BC/%EC%97%AC%EC%84%AF%EB%AA%A8%EC%9E%90%EC%83%89%EA%B9%94%EA%B8%B0%EB%B2%95_%EC%A3%BC%EC%A0%9C1.PNG" title="Code">
 </tr>
 
-![여섯모자색깔기법_주제2](https://user-images.githubusercontent.com/53076307/189953707-a4b5a9dc-9524-4257-8a97-76b60930f42b.PNG)
 
+ ![여섯모자색깔기법_주제2](https://user-images.githubusercontent.com/53076307/189953707-a4b5a9dc-9524-4257-8a97-76b60930f42b.PNG)
 </table>
 <tr>
 <td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/05_%EA%B2%B0%EA%B3%BC%EB%AC%BC/%EC%97%AC%EC%84%AF%EB%AA%A8%EC%9E%90%EC%83%89%EA%B9%94%EA%B8%B0%EB%B2%95_%EC%A3%BC%EC%A0%9C2.PNG">
