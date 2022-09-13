@@ -80,6 +80,8 @@
 <br /><sub><b>03KJ기법_메모file</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/03_KJ%EA%B8%B0%EB%B2%95" title="Code">
 </tr>
  
+ ![image](https://user-images.githubusercontent.com/53076307/189956660-53b8400f-b679-43c4-91b6-c009600d0f3d.png)
+
  
  ![여섯모자색깔기법_주제1](https://user-images.githubusercontent.com/53076307/189953528-a669aff4-af08-4e4a-9b1d-89b346064fb0.PNG)
 </table>
