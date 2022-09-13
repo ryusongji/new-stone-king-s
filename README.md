@@ -120,6 +120,7 @@
 <br /><sub><b>확대하기</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/05_%EA%B2%B0%EA%B3%BC%EB%AC%BC/%EC%B5%9C%EC%A2%85%20%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A7%B5.png" title="Code">
 </tr>
 
+</table>
 <tr>
 <td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/00_%ED%9A%8C%EC%9D%98%EB%A1%9D">
 <br /><sub><b>회의록pdf</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/00_%ED%9A%8C%EC%9D%98%EB%A1%9D" title="Code">
@@ -128,3 +129,8 @@
  # 소감
 
 ![회의과정](https://user-images.githubusercontent.com/53076307/189960275-607d37d6-8fce-4f4f-9d45-4ecbf5d0b6cb.png)
+</table>
+<tr>
+<td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/04_%EA%B0%9C%EC%9D%B8%20%EC%86%8C%EA%B0%90%EB%AC%B8">
+<br /><sub><b>개인소감문</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/04_%EA%B0%9C%EC%9D%B8%20%EC%86%8C%EA%B0%90%EB%AC%B8" title="Code">
+</tr>
