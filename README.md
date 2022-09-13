@@ -41,8 +41,8 @@
 
 </table>
 <tr>
-<td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/%EA%B0%9C%EC%9D%B8%20%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A7%B5">
-<br /><sub><b>개인마인드맵file</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/%EA%B0%9C%EC%9D%B8%20%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A7%B5" title="Code">
+<td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/01_%EA%B0%9C%EC%9D%B8%20%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A7%B5">
+<br /><sub><b>01_개인마인드맵file</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/01_%EA%B0%9C%EC%9D%B8%20%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A7%B5" title="Code">
 </tr>
 
 </table>
