@@ -72,9 +72,6 @@
 <td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/05_%EA%B2%B0%EA%B3%BC%EB%AC%BC/KJMAPPING.jpg">
 <br /><sub><b>확대하기</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/05_%EA%B2%B0%EA%B3%BC%EB%AC%BC/KJMAPPING.jpg" title="Code">
 </tr>
-
-
- 참고자료
  
 </table>
 <tr>
