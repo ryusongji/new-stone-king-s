@@ -41,6 +41,7 @@
 # 회의 진행 사항 정리
  
 
+![image](https://user-images.githubusercontent.com/53076307/189959090-507a4922-c696-4fe1-8d82-69fa92d9da30.png)
 
 </table>
 <tr>
