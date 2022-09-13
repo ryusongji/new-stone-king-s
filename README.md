@@ -38,11 +38,6 @@
 # 회의 진행 사항 정리
  
 
-</table>
-<tr>
-<td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/%ED%9A%8C%EC%9D%98%EB%A1%9D">
-<br /><sub><b>회의록pdf</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/%ED%9A%8C%EC%9D%98%EB%A1%9D" title="Code">
-</tr>
 
 </table>
 <tr>
@@ -76,3 +71,13 @@
 <td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/05_%EA%B2%B0%EA%B3%BC%EB%AC%BC/KJMAPPING.jpg">
 <br /><sub><b>확대하기</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/05_%EA%B2%B0%EA%B3%BC%EB%AC%BC/KJMAPPING.jpg" title="Code">
 </tr>
+
+
+참고자료
+
+</table>
+<tr>
+<td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/00_%ED%9A%8C%EC%9D%98%EB%A1%9D">
+<br /><sub><b>회의록pdf</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/00_%ED%9A%8C%EC%9D%98%EB%A1%9D" title="Code">
+</tr>
+
