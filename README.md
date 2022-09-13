@@ -67,6 +67,7 @@
 
 ![KJMAPPING](https://user-images.githubusercontent.com/53076307/189951930-ca53a64c-1496-44d9-9fc4-b408c857a6b3.jpg)
 
+</table>
 <tr>
 <td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/05_%EA%B2%B0%EA%B3%BC%EB%AC%BC/KJMAPPING.jpg">
 <br /><sub><b>확대하기</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/05_%EA%B2%B0%EA%B3%BC%EB%AC%BC/KJMAPPING.jpg" title="Code">
