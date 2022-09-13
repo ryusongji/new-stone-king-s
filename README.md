@@ -52,10 +52,8 @@
 
 </table>
 <tr>
-<td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/%EB%B8%8C%EB%A0%88%EC%9D%B8%EC%8A%A4%ED%86%A0%EB%B0%8D_%EB%A9%94%EB%AA%A8
-">
-<br /><sub><b>브레인스토밍_메모file</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/%EB%B8%8C%EB%A0%88%EC%9D%B8%EC%8A%A4%ED%86%A0%EB%B0%8D_%EB%A9%94%EB%AA%A8
-" title="Code">
+<td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/02_%EB%B8%8C%EB%A0%88%EC%9D%B8%20%EC%8A%A4%ED%86%A0%EB%B0%8D">
+<br /><sub><b>브레인스토밍_메모file</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/02_%EB%B8%8C%EB%A0%88%EC%9D%B8%20%EC%8A%A4%ED%86%A0%EB%B0%8D" title="Code">
 </tr>
 
  ![image](https://user-images.githubusercontent.com/53076307/189537207-22da66b9-b615-45e0-989a-26ad13c0b6f1.png)
