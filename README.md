@@ -49,7 +49,11 @@
 </tr>
 
  ![image](https://user-images.githubusercontent.com/53076307/189958379-b79b797e-4f3a-46f6-bb4e-f7374f92e555.png)
-
+ </table>
+<tr>
+<td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8C%8C%EC%9D%BC/%EB%B8%8C%EB%A0%88%EC%9D%B8%EC%8A%A4%ED%86%A0%EB%B0%8D.PNG">
+<br /><sub><b>확대하기</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8C%8C%EC%9D%BC/%EB%B8%8C%EB%A0%88%EC%9D%B8%EC%8A%A4%ED%86%A0%EB%B0%8D.PNG" title="Code">
+</tr>
  
  ![브레인스토밍_마인드맵_류송지](https://user-images.githubusercontent.com/53076307/189954107-a3948105-7667-4ae3-86fc-d17605b86a58.PNG)
 </table>
