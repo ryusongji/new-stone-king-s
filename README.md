@@ -74,8 +74,8 @@
 </tr>
 
 
-참고자료
-
+ 참고자료
+ 
 </table>
 <tr>
 <td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/00_%ED%9A%8C%EC%9D%98%EB%A1%9D">
