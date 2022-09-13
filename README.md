@@ -124,5 +124,7 @@
 <td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/00_%ED%9A%8C%EC%9D%98%EB%A1%9D">
 <br /><sub><b>회의록pdf</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/tree/main/00_%ED%9A%8C%EC%9D%98%EB%A1%9D" title="Code">
 </tr>
+ 
+ # 소감
 
 ![회의과정](https://user-images.githubusercontent.com/53076307/189960275-607d37d6-8fce-4f4f-9d45-4ecbf5d0b6cb.png)
