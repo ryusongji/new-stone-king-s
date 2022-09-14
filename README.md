@@ -46,8 +46,9 @@
 
 <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/74331917/190243750-404197fd-6045-47ec-b159-1b3dad0fb7f3.png"  width="400" height="400"/></td>
-    <td><img src="https://user-images.githubusercontent.com/74331917/190244234-deaca732-173b-44f0-9ada-7f31f1a3bcb8.PNG"  width="400" height="400"/></td>
+    <td><img src="https://user-images.githubusercontent.com/74331917/190243750-404197fd-6045-47ec-b159-1b3dad0fb7f3.png" width="300" height="300"/></td>
+    <td><img src="https://user-images.githubusercontent.com/74331917/190244234-deaca732-173b-44f0-9ada-7f31f1a3bcb8.PNG" width="300" height="300"/></td>
+    <td><img src="https://user-images.githubusercontent.com/74331917/190253162-4789a866-10bf-4c0a-a2e5-7ef641d346c8.jpg" width="300" height="300"></td>
   </tr>
 </table>
 
@@ -74,7 +75,7 @@
 - 지도를 그리듯이 하나의 키워드를 계층 구조로 표현하여 전체의 조각들 간 관계를 표시하고 정리하는 표현법
 - 읽고 생각하고 분석하고 기억하는 것들을 마음속에 지도를 그리듯 시각적으로 표현하여 모델링 사고를 기를 수 있음
 - 그림이나 사진을 사용함으로써 자신만의 독창성과 창의성을 발휘 가능
-- 하나의 주제에서 여러 주제로 뻗어나가는 사고(발산사고)와 여러 주제를 묶에서 분류하는 사고(수렴사고)를 기를 수 있음
+- 하나의 주제에서 여러 주제로 뻗어나가는 사고(발산사고)와 여러 주제를 묶어서 분류하는 사고(수렴사고)를 기를 수 있음
 
 #### 🚩마인드맵 작성의 원칙
 - 종이의 중심에서부터 아이디어를 펼치기 시작
@@ -126,6 +127,9 @@
 7. 타이틀 카드들을 붙여놓고 그룹을 만드는 작업 반복
 8. 그룹 간 관계를 생각하며 도표화 및 특성 요인도 또는 문장으로 정리
 
+[출처 : 네이버 블로그 바로가기](https://blog.naver.com/sigmagil/221523078541) 
+<img src="https://user-images.githubusercontent.com/74331917/190251318-65b53d0e-a8a5-4104-88ca-172b571b7303.PNG" width="300" height="300">
+
 #### 🚩그룹핑 요령
 1. 카드 내용이 같은 경우 중복 부문을 없애고 라벨을 볼 수 있도록 한다.
 2. 카드 내용이 비슷한 레벨을 4-5매 모아서 여러 개의 섬으로 만들어 간다.
@@ -151,14 +155,14 @@
 #### 🚩 KJ MAPPING 진행 과정
 <table>
   <tr>
-    <td><img src="https://github.com/ryusongji/new-stone-king-s/blob/main/03_KJ%EA%B8%B0%EB%B2%95/%EC%9D%B8%EC%84%B1_%EB%8B%A4%ED%98%84_%EA%B3%BC%EC%A0%95/KJ_1.jpg?raw=true" width="300" height="200"></td>
-    <td><img src="https://github.com/ryusongji/new-stone-king-s/blob/main/03_KJ%EA%B8%B0%EB%B2%95/%EC%9D%B8%EC%84%B1_%EB%8B%A4%ED%98%84_%EA%B3%BC%EC%A0%95/KJ_3.jpg?raw=true" width="300" height="200"></td>
-    <td><img src="https://github.com/ryusongji/new-stone-king-s/blob/main/03_KJ%EA%B8%B0%EB%B2%95/%EC%9D%B8%EC%84%B1_%EB%8B%A4%ED%98%84_%EA%B3%BC%EC%A0%95/KJ_4.jpg?raw=true" width="300" height="200"></td>
+    <td><img src="https://github.com/ryusongji/new-stone-king-s/blob/main/03_KJ%EA%B8%B0%EB%B2%95/KJ%EB%A7%B5%ED%95%91_%EC%A7%84%ED%96%89%EA%B3%BC%EC%A0%95/KJ_1.jpg?raw=true" width="300" height="250"></td>
+    <td><img src="https://github.com/ryusongji/new-stone-king-s/blob/main/03_KJ%EA%B8%B0%EB%B2%95/KJ%EB%A7%B5%ED%95%91_%EC%A7%84%ED%96%89%EA%B3%BC%EC%A0%95/KJ_3.jpg?raw=true" width="300" height="250"></td>
+    <td><img src="https://github.com/ryusongji/new-stone-king-s/blob/main/03_KJ%EA%B8%B0%EB%B2%95/KJ%EB%A7%B5%ED%95%91_%EC%A7%84%ED%96%89%EA%B3%BC%EC%A0%95/KJ_4.jpg?raw=true" width="300" height="250"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/ryusongji/new-stone-king-s/blob/main/03_KJ%EA%B8%B0%EB%B2%95/%EC%9D%B8%EC%84%B1_%EB%8B%A4%ED%98%84_%EA%B3%BC%EC%A0%95/KJ_5.jpg?raw=true" width="300" height="200"></td>
-    <td><img src="https://github.com/ryusongji/new-stone-king-s/blob/main/03_KJ%EA%B8%B0%EB%B2%95/%EC%9D%B8%EC%84%B1_%EB%8B%A4%ED%98%84_%EA%B3%BC%EC%A0%95/KJ_7.jpg?raw=true" width="300" height="200"></td>
-    <td><img src="https://github.com/ryusongji/new-stone-king-s/blob/main/03_KJ%EA%B8%B0%EB%B2%95/%EC%9D%B8%EC%84%B1_%EB%8B%A4%ED%98%84_%EA%B3%BC%EC%A0%95/KJ_99.jpg?raw=true" width="300" height="200"></td>
+    <td><img src="https://github.com/ryusongji/new-stone-king-s/blob/main/03_KJ%EA%B8%B0%EB%B2%95/KJ%EB%A7%B5%ED%95%91_%EC%A7%84%ED%96%89%EA%B3%BC%EC%A0%95/KJ_5.jpg?raw=true" width="300" height="250"></td>
+    <td><img src="https://github.com/ryusongji/new-stone-king-s/blob/main/03_KJ%EA%B8%B0%EB%B2%95/KJ%EB%A7%B5%ED%95%91_%EC%A7%84%ED%96%89%EA%B3%BC%EC%A0%95/KJ_7.jpg?raw=true" width="300" height="250"></td>
+    <td><img src="https://github.com/ryusongji/new-stone-king-s/blob/main/03_KJ%EA%B8%B0%EB%B2%95/KJ%EB%A7%B5%ED%95%91_%EC%A7%84%ED%96%89%EA%B3%BC%EC%A0%95/KJ_99.jpg?raw=true" width="300" height="250"></td>
   </tr>
 </table>
 
@@ -281,8 +285,8 @@
 <a href="https://github.com/ryusongji/new-stone-king-s/blob/main/05_%EA%B2%B0%EA%B3%BC%EB%AC%BC/%EC%97%AC%EC%84%AF%EB%AA%A8%EC%9E%90%EC%83%89%EA%B9%94%EA%B8%B0%EB%B2%95_%EC%A3%BC%EC%A0%9C2%EB%B2%88.PNG"><sub><b>자세히보기</b></sub></a>
  
 #### 😢미흡한점😢
-`자신의 성격과 반대되는 모자 역할을 맡고, 류송지와 김지환의 경우 남는 것 중에 안 해본 것을 선택하는 방식으로 진행
-성격과 반대 역할을 맡다보니 의견을 제시하는데 많은 시간이 소요했고, 회의 진행이 매끄럽지 못해 의견이 충분히 나오지 못한 경우가 많아 아쉬웠다.`
+`자신의 성격과 반대되는 모자 역할 부분에서 어쩔수 없이 누군가는 남는 모자를 선택할 수 밖에 없는 것에 아쉬움을 느꼈다.
+성격과 반대 역할이다 보니 의견 제시에 많은 시간이 소요되고, 의견이 충분히 나오지 않아 아쉬웠다.`
 
 <hr>
 
@@ -300,4 +304,4 @@
 
 <a href="https://github.com/ryusongji/new-stone-king-s/tree/main/04_%EA%B0%9C%EC%9D%B8%20%EC%86%8C%EA%B0%90%EB%AC%B8"><h3>개인 소감문 보러가기</h3></a>
  
- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=THANK-YOU)
+ ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=THANK-YOU!)
