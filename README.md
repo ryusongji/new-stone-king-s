@@ -125,7 +125,6 @@
 6. 그룹에 타이틀 기입
 7. 타이틀 카드들을 붙여놓고 그룹을 만드는 작업 반복
 8. 그룹 간 관계를 생각하며 도표화 및 특성 요인도 또는 문장으로 정리
-> [출처 : 네이버 블로그](blog.naver.com/sigmagil/221523078541, "출처")
 
 #### 🚩그룹핑 요령
 1. 카드 내용이 같은 경우 중복 부문을 없애고 라벨을 볼 수 있도록 한다.
@@ -291,7 +290,7 @@
 
 <img src="https://user-images.githubusercontent.com/74331917/190235843-9f0c0b87-328f-4f17-90b4-a1081dc4cf75.jpg" width="700" height="600"/>
 <img src="https://user-images.githubusercontent.com/74331917/190235853-017f28b6-6cfb-403b-b963-2073195d733d.jpg" width="700" height="600"/>
-<a href=""><sub><b>자세히보기</b></sub></a>
+<a href="https://github.com/ryusongji/new-stone-king-s/blob/main/05_%EA%B2%B0%EA%B3%BC%EB%AC%BC/%EC%B5%9C%EC%A2%85%20%EB%A7%88%EC%9D%B8%EB%93%9C%EB%A7%B5.png"><sub><b>자세히보기</b></sub></a>
 
 <hr>
 
