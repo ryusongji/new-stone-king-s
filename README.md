@@ -25,9 +25,9 @@
   </tr>
   <tr>
     <th align="center">팀장</th>
-    <th align="center">기록관</th>
+    <th align="center">서기</th>
     <th align="center">디자인</th>
-    <th align="center">버스 승객</th>
+    <th align="center">발표</th>
   </tr>
  <tr>
    <td align="center">ENFP</td>
