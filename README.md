@@ -106,7 +106,7 @@
 </tr>
 
 
- ![여섯모자색깔기법_주제2](https://user-images.githubusercontent.com/53076307/189953707-a4b5a9dc-9524-4257-8a97-76b60930f42b.PNG)
+![image](https://user-images.githubusercontent.com/53076307/190053264-c66a0c9f-b813-48f8-9180-d963fe760837.png)
 </table>
 <tr>
 <td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/05_%EA%B2%B0%EA%B3%BC%EB%AC%BC/%EC%97%AC%EC%84%AF%EB%AA%A8%EC%9E%90%EC%83%89%EA%B9%94%EA%B8%B0%EB%B2%95_%EC%A3%BC%EC%A0%9C2.PNG">
