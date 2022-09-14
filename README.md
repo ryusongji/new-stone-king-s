@@ -8,7 +8,7 @@
 <a href="https://github.com/ryusongji/new-stone-king-s#-%ED%9A%8C%EC%9D%98-%EC%A3%BC%EC%A0%9C-">2. 회의 주제</a><br>
 <a href="https://github.com/ryusongji/new-stone-king-s#-%ED%9A%8C%EC%9D%98-%EC%9D%BC%EC%A0%95-%EB%B0%8F-%EC%8B%9C%EA%B0%84-">3. 회의 일정 및 시간</a><br>
 <a href="https://github.com/ryusongji/new-stone-king-s#-%ED%9A%8C%EC%9D%98-%EC%A7%84%ED%96%89-%EC%82%AC%ED%95%AD-%EC%A0%95%EB%A6%AC-">4. 회의 진행 사항 정리</a><br>
-<a href="https://github.com/ryusongji/new-stone-king-s#%EC%88%98%ED%96%89%ED%9B%84%EA%B8%B0-">5. 수행후기</a><br>
+<a href="https://github.com/ryusongji/new-stone-king-s#%EC%88%98%ED%96%89%ED%9B%84%EA%B8%B0">5. 수행후기</a><br>
 
 ## 👩‍💻 조원 소개 및 역할 👨‍💻
 
