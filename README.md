@@ -109,8 +109,8 @@
 ![image](https://user-images.githubusercontent.com/53076307/190053264-c66a0c9f-b813-48f8-9180-d963fe760837.png)
 </table>
 <tr>
-<td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/05_%EA%B2%B0%EA%B3%BC%EB%AC%BC/%EC%97%AC%EC%84%AF%EB%AA%A8%EC%9E%90%EC%83%89%EA%B9%94%EA%B8%B0%EB%B2%95_%EC%A3%BC%EC%A0%9C2.PNG">
-<br /><sub><b>확대하기</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/05_%EA%B2%B0%EA%B3%BC%EB%AC%BC/%EC%97%AC%EC%84%AF%EB%AA%A8%EC%9E%90%EC%83%89%EA%B9%94%EA%B8%B0%EB%B2%95_%EC%A3%BC%EC%A0%9C2.PNG" title="Code">
+<td align="center"><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/05_%EA%B2%B0%EA%B3%BC%EB%AC%BC/%EC%97%AC%EC%84%AF%EB%AA%A8%EC%9E%90%EC%83%89%EA%B9%94%EA%B8%B0%EB%B2%95_%EC%A3%BC%EC%A0%9C2%EB%B2%88.PNG">
+<br /><sub><b>확대하기</b></sub></a><br /><a href="https://github.com/ryusongji/new-stone-king-s/blob/main/05_%EA%B2%B0%EA%B3%BC%EB%AC%BC/%EC%97%AC%EC%84%AF%EB%AA%A8%EC%9E%90%EC%83%89%EA%B9%94%EA%B8%B0%EB%B2%95_%EC%A3%BC%EC%A0%9C2%EB%B2%88.PNG" title="Code">
 </tr>
 
 ![최종 마인드맵](https://user-images.githubusercontent.com/53076307/189959457-0df10124-267e-4b79-b4cc-7b1d9cf81444.png)
